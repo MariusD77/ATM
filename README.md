@@ -4,7 +4,7 @@
 <p>📫 How to reach me marius.david07@gmail.com</p>
 
 
-<br><b>The asignement:</b></br>
+<br><b>The asignement 1:</b></br>
 <p></p><i>,,You are working as a software tester for a bank institution.
 Shortly, the update process for all ATM from entire country will begin.
 All ATM will be replaced with new model ATM 2.0.
