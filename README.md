@@ -5,7 +5,7 @@
 
 
 <br>The asignement:</br>
-<p>,,You are working as a software tester for a bank institution.
-Shortly, the update process for all ATM from entire country will begin.</p
+<p></p>,,You are working as a software tester for a bank institution.
+Shortly, the update process for all ATM from entire country will begin.
 All ATM will be replaced with new model ATM 2.0.
-Your task as a software tester is to generate a test suit of functional tests for new ATM 2.0 version”</p>
+Your task as a software tester is to generate a test suit of functional tests for new ATM 2.0 version”
